@@ -24,4 +24,5 @@ This project involves creating a state management system for a robotics platform
    git clone https://github.com/shrutidip/State-Management-System.git
    cd State-Management-System
 
+##NOTE:
 **This `README.md` provides an overview of the project, details on setup and usage, and directs users to `notes.md` for further explanation.**
